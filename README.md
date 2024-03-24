@@ -1,7 +1,3 @@
-Certainly! Below is a sample README.md file for a GitHub repository explaining the k-balanced binary search tree implementation in C:
-
----
-
 # K-Balanced Binary Search Tree in C
 
 This repository contains a C implementation of a k-balanced binary search tree. A k-balanced binary search tree is a data structure where the heights of any two sibling subtrees differ by at most a factor of k.
